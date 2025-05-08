@@ -74,7 +74,7 @@ I am a Backend Developer & DevOps Engineer with expertise in building robust, sc
 
 ## 📂 Projects
 
-- **Muuve API Suite**: Comprehensive set of NestJS services for property listings and rentals.
+- **Muuve API Suite**: Comprehensive NestJS services for property listings and rentals.
 - **DevOps Automation**: Terraform modules for consistent, secure AWS infrastructure.
 - **CI/CD Dashboard**: Real-time monitoring dashboard using D3.js and Chart.js.
 
@@ -83,7 +83,7 @@ I am a Backend Developer & DevOps Engineer with expertise in building robust, sc
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**
-University of Punjab, Lahore — 2014 - 2018
+Islamia University of Bahawalpur — 2017 - 2020
 
 ---
 

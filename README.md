@@ -91,9 +91,3 @@ University of Punjab, Lahore — 2014 - 2018
 
 - 📧 faizanchaodhry@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/faizan-ashiq)
-- <p align="center">
-  <a href="https://github.com/faizanashiq"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:faizanchaodhry@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/faizan-ashiq"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-

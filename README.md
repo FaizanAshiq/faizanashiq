@@ -11,7 +11,9 @@
 
 ## 🚀 About Me
 
-I am a Backend Developer & DevOps Engineer with expertise in building robust, scalable services and automating infrastructure. Currently, I'm contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Angular**.
+I am a Backend Developer & DevOps Engineer with expertise in building robust, scalable services and automating
+infrastructure. Currently, I'm contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**,
+architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Angular**.
 
 - 🔭 I'm currently working on **Muuve**: enhancing its APIs and DevOps workflows.
 - 🌱 I'm learning **advanced Kubernetes operators** and exploring **AI/ML integration** in backend systems.
@@ -57,31 +59,32 @@ I am a Backend Developer & DevOps Engineer with expertise in building robust, sc
 
 ### Lead Backend Developer, Muuve (Jan 2024 – Present) — Remote, South Africa
 
-* Architected the backend using **Node.js**, **Express.js**, **MongoDB**, **Redis**, and **Google APIs**.
-* Integrated **Paystack** for secure and reliable payment processing.
-* Designed scalable infrastructure with **AWS S3** for media handling and file uploads.
-* Improved backend performance by **17%** through **MongoDB sharding and indexing** strategies.
-* Boosted response time for frequent API calls by **10%** using **Redis caching**.
-* Contributed to the development of the official **Muuve website**.
+- Architected the backend using **Node.js**, **Express.js**, **MongoDB**, **Redis**, and **Google APIs**.
+- Integrated **Paystack** for secure and reliable payment processing.
+- Designed scalable infrastructure with **AWS S3** for media handling and file uploads.
+- Improved backend performance by **17%** through **MongoDB sharding and indexing** strategies.
+- Boosted response time for frequent API calls by **10%** using **Redis caching**.
+- Contributed to the development of the official **Muuve website**.
 
 ---
 
 ### Senior Developer, Engimatix (Dec 2018 – Jan 2024) — On Site, Bahawalpur
 
-* Engineered **E-commerce platforms**, **custom CRMs**, and **real-time chat apps** using **microservices architecture** with **Kubernetes** and **TypeScript**.
-* Integrated third-party services including **Subsub**, **Paystack**, **Stripe APIs**, and **Strapi CMS**.
-* Wrote **Dockerfiles** and **Helm charts** to manage deployments on **Kubernetes clusters**.
-* Connected **AWS-hosted services** with internal systems for seamless data exchange.
-* Led design of **deep search algorithms**, **event-driven architectures**, and **TDD**-based systems from scratch.
-* Built reusable **React components** to enhance team efficiency and project consistency.
-* Created **unit/integration tests** with **Jest**, and **E2E tests** using the **NestJS framework**.
+- Engineered **E-commerce platforms**, **custom CRMs**, and **real-time chat apps** using **microservices architecture**
+  with **Kubernetes** and **TypeScript**.
+- Integrated third-party services including **Subsub**, **Paystack**, **Stripe APIs**, and **Strapi CMS**.
+- Wrote **Dockerfiles** and **Helm charts** to manage deployments on **Kubernetes clusters**.
+- Connected **AWS-hosted services** with internal systems for seamless data exchange.
+- Led design of **deep search algorithms**, **event-driven architectures**, and **TDD**-based systems from scratch.
+- Built reusable **React components** to enhance team efficiency and project consistency.
+- Created **unit/integration tests** with **Jest**, and **E2E tests** using the **NestJS framework**.
 
 ---
 
 ### Junior Web Engineer, IUB (Jan 2018 – Feb 2018) — On Site, Bahawalpur
 
-* Assisted in frontend and backend tasks for university web systems.
-* Gained foundational experience in **HTML**, **CSS**, **JavaScript**, and backend scripting.
+- Assisted in frontend and backend tasks for university web systems.
+- Gained foundational experience in **HTML**, **CSS**, **JavaScript**, and backend scripting.
 
 ---
 
@@ -95,8 +98,7 @@ I am a Backend Developer & DevOps Engineer with expertise in building robust, sc
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
-Islamia University of Bahawalpur — 2017 - 2020
+**Bachelor of Science in Computer Science** Islamia University of Bahawalpur — 2017 - 2020
 
 ---
 

@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-I am a Backend Developer & DevOps Engineer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Angular**.
+I am a Backend Developer & DevOps Engineer with expertise in building robust, scalable services and automating infrastructure. Currently, I'm contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Angular**.
 
-- 🔭 I’m currently working on **Muuve**: enhancing its APIs and DevOps workflows.
-- 🌱 I’m learning **advanced Kubernetes operators** and exploring **AI/ML integration** in backend systems.
+- 🔭 I'm currently working on **Muuve**: enhancing its APIs and DevOps workflows.
+- 🌱 I'm learning **advanced Kubernetes operators** and exploring **AI/ML integration** in backend systems.
 - 💬 Ask me about **NestJS**, **AWS DevOps**, **Docker**, **Kubernetes**, and **Microservices**.
-- 👯 I’m open to mentoring fellow developers on **DevOps best practices**.
+- 👯 I'm open to mentoring fellow developers on **DevOps best practices**.
 
 ## 🛠️ Skills & Tools
 
@@ -53,22 +53,35 @@ I am a Backend Developer & DevOps Engineer with expertise in building robust, sc
 
 ## 💼 Experience
 
-### Backend & DevOps Engineer, Muuve (2024 - Present)
-- Developed and maintained microservice-based APIs using **NestJS**.
-- Automated deployment pipelines on **AWS** (CodePipeline, CodeBuild, CloudFormation).
-- Containerized services with **Docker**, orchestrated with **EKS**.
-- Implemented infrastructure as code using **Terraform**, managing multi-account environments.
+---
 
-### Backend Developer (2021 - 2024)
-- Built RESTful APIs and WebSockets services with **Node.js** and **Express**.
-- Integrated third-party services (Stripe, Twilio, SendGrid).
-- Set up CI/CD with **Jenkins** and **GitHub Actions**.
-- Mentored junior developers and conducted code reviews.
+### Lead Backend Developer, Muuve (Jan 2024 – Present) — Remote, South Africa
 
-### Junior Software Engineer (2018 - 2021)
-- Collaborated on front-end features using **Angular**.
-- Wrote unit and integration tests with **Jest** and **Supertest**.
-- Assisted in migrating monolith to microservices.
+* Architected the backend using **Node.js**, **Express.js**, **MongoDB**, **Redis**, and **Google APIs**.
+* Integrated **Paystack** for secure and reliable payment processing.
+* Designed scalable infrastructure with **AWS S3** for media handling and file uploads.
+* Improved backend performance by **17%** through **MongoDB sharding and indexing** strategies.
+* Boosted response time for frequent API calls by **10%** using **Redis caching**.
+* Contributed to the development of the official **Muuve website**.
+
+---
+
+### Senior Developer, Engimatix (Dec 2018 – Jan 2024) — On Site, Bahawalpur
+
+* Engineered **E-commerce platforms**, **custom CRMs**, and **real-time chat apps** using **microservices architecture** with **Kubernetes** and **TypeScript**.
+* Integrated third-party services including **Subsub**, **Paystack**, **Stripe APIs**, and **Strapi CMS**.
+* Wrote **Dockerfiles** and **Helm charts** to manage deployments on **Kubernetes clusters**.
+* Connected **AWS-hosted services** with internal systems for seamless data exchange.
+* Led design of **deep search algorithms**, **event-driven architectures**, and **TDD**-based systems from scratch.
+* Built reusable **React components** to enhance team efficiency and project consistency.
+* Created **unit/integration tests** with **Jest**, and **E2E tests** using the **NestJS framework**.
+
+---
+
+### Junior Web Engineer, IUB (Jan 2018 – Feb 2018) — On Site, Bahawalpur
+
+* Assisted in frontend and backend tasks for university web systems.
+* Gained foundational experience in **HTML**, **CSS**, **JavaScript**, and backend scripting.
 
 ---
 

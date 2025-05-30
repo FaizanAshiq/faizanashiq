@@ -29,6 +29,8 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
 
 ### DevOps & Cloud
 
@@ -37,6 +39,10 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-%2313264F.svg?style=flat-square&logo=kubernetes&logoColor=white)
 - ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
 - ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+- ![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
+- ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+- ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 
 ### Databases & Caching
 
@@ -46,10 +52,9 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 
 ### Others
 
-- CI/CD: GitHub Actions, CircleCI
-- Monitoring & Logging: Prometheus, Grafana, ELK
-- Testing: Jest, Supertest
 - Scripting: Bash, PowerShell
+- Version Control: Git, GitHub
+- API Testing: Postman, Insomnia
 
 ---
 
@@ -90,9 +95,12 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 
 ## 📂 Projects
 
-- **Muuve API Suite**: Comprehensive NestJS services for property listings and rentals.
-- **DevOps Automation**: Terraform modules for consistent, secure AWS infrastructure.
-- **CI/CD Dashboard**: Real-time monitoring dashboard using D3.js and Chart.js.
+- [Muuve](https://muuve.co.za/)
+- [Pafyll](https://pafyll.com/en-NO)
+- [Enigmatix OMS](https://www.oms.enigmatix.co/)
+- [Renie](https://www.renie.io/)
+- [PackaChange](https://packachange.com/)
+- [Miruro](https://www.miruro.tv/)
 
 ---
 

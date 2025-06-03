@@ -93,7 +93,7 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 
 ---
 
-## 📂 Projects
+## 📂 Web Projects
 
 - [Muuve](https://muuve.co.za/)
 - [Pafyll](https://pafyll.com/en-NO)
@@ -101,6 +101,14 @@ architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams 
 - [Renie](https://www.renie.io/)
 - [PackaChange](https://packachange.com/)
 - [Miruro](https://www.miruro.tv/)
+
+---
+
+## 📱 Mobile Apps
+
+- [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)
+- [GozippRide](https://apps.apple.com/us/app/gozippride/id6742736541)
+- [Enigmatix OMS](https://play.google.com/store/apps/details?id=com.enigmatix.punchinout&hl=en&gl=US)
 
 ---
 

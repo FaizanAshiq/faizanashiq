@@ -13,7 +13,7 @@
 
 I am a Backend Developer & DevOps Engineer with expertise in building robust, scalable services and automating
 infrastructure. Currently, I'm contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**,
-architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Angular**.
+architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Next.js**.
 
 - 🔭 I'm currently working on **Muuve**: enhancing its APIs and DevOps workflows.
 - 🌱 I'm learning **advanced Kubernetes operators** and exploring **AI/ML integration** in backend systems.

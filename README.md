@@ -32,8 +32,6 @@ pipelines, and collaborating with teams using **Next.js** and **React**.
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=flat-square&logo=microservices&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black)
 
@@ -59,7 +57,6 @@ pipelines, and collaborating with teams using **Next.js** and **React**.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=flat-square&logo=supabase&logoColor=white)
@@ -171,7 +168,7 @@ Intelligence** solutions. Partnership-focused approach with 100% job success rat
 **💡 Core Expertise:**
 
 - **Frontend:** React.js, React Native, Next.js, Expo, Redux, Zustand, ShadCN UI, Tailwind CSS
-- **Backend:** Node.js, NestJS, Express.js, Fastify, Python, Django, FastAPI, GraphQL, RabbitMQ, Kafka
+- **Backend:** Node.js, NestJS, Express.js, Fastify, Python, Django, FastAPI, RabbitMQ, Kafka
 - **AI/ML:** GPT (OpenAI), Claude, RAG, TensorFlow, PyTorch, LangChain, Google Perspective API, VAPI Voice Agents
 - **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda, CloudFront), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD
 - **Databases:** PostgreSQL, MongoDB, Redis, MySQL, Firebase, Supabase, Elasticsearch
